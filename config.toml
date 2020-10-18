@@ -1,0 +1,4 @@
+baseURL = "https://nannxnann.github.io/"
+languageCode = "zh-tw"
+title = "nannxnann's site"
+theme = "papermod"
